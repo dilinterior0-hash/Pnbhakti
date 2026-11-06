@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "NP Bhakti Path",
+  "short_name": "NP Bhakti Path",
+  "description": "आरती, भजन और मंत्र संग्रह",
+  "lang": "hi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9ed",
+  "theme_color": "#7c2d12",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
